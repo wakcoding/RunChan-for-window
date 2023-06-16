@@ -1,6 +1,6 @@
-# RunCat_for_windows
+# RunChan_for_windows
 
-**A cute running cat animation on your windows taskbar.**
+**A cute running viichan animation on your windows taskbar.**
 
 [![Github issues](https://img.shields.io/github/issues/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/issues)
 [![Github forks](https://img.shields.io/github/forks/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/network/members)
