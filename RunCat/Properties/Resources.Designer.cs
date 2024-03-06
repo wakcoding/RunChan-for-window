@@ -59,6 +59,156 @@ namespace RunCat.Properties {
                 resourceCulture = value;
             }
         }
+
+        internal static System.Drawing.Icon dark_viichan_0
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_1
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_2
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_3
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_4
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_5
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_viichan_6
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("dark_viichan_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+
+        internal static System.Drawing.Icon light_viichan_0
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_1
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_2
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_3
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_4
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_5
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_viichan_6
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("light_viichan_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
         
         /// <summary>
         ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
